@@ -42,20 +42,20 @@
 }
 
 - (IBAction)touchCardButton:(UIButton *)sender {
-    int index = [self.senders indexOfObject:sender];
+    NSUInteger index = [self.senders indexOfObject:sender];
     [self.game chooseCardAtIndex:index];
     [self updateUI];
 }
 
 - (void)updateUI{
     for (UIButton *sender in self.senders) {
-        int index = [self.senders indexOfObject:sender];
+        NSUInteger index = [self.senders indexOfObject:sender];
         Card *card = [self.game cardAtIndex:index];
         [sender setTitle:[self titleForCard:card] forState:UIControlStateNormal];
         [sender setBackgroundImage:[self backgroundImageForCard:card] forState:UIControlStateNormal];
         sender.enabled = !card.isMatched;
     }
-    self.scoreLabel.text = [NSString stringWithFormat:@"Score : %i", self.game.score];
+    self.scoreLabel.text = [NSString stringWithFormat:@"Score : %li", (long)self.game.score];
 }
 
 - (NSString *)titleForCard:(Card *)card{
