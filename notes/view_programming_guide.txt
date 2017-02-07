@@ -10,3 +10,9 @@ View Programming Guide for iOS
 	7>See Also
 
 2.View and Window Architecture
+	1>View Architecture Fundamentals
+	2>View Hierarchies and Subview Management
+	3>The View Drawing Cycle
+	4>Content Modes
+	5>Stretchable Views
+	6>Built-In Animation Support
