@@ -16,3 +16,15 @@ View Programming Guide for iOS
 	4>Content Modes
 	5>Stretchable Views
 	6>Built-In Animation Support
+	7>View Geometry and Coordinate Systems
+	8>The Relationship of the Frame, Bounds, and Center Properties
+	9>Coordinate System Transformations (?)
+	10>Points Versus Pixels
+	11>The Runtime Interaction Model for Views
+	12>Tips for Using Views Effectively
+	13>Views Do Not Always Have a Corresponding View Controller
+	14>Minimize Custom Drawing
+	15>Take Advantage of Content Modes
+	16>Declare Views as Opaque Whenever Possible
+	17>Adjust Your View's Drawing Behavior When Scrolling
+	18>Do Not Customize Controls by Embedding Subviews
