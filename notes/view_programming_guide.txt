@@ -28,3 +28,16 @@ View Programming Guide for iOS
 	16>Declare Views as Opaque Whenever Possible
 	17>Adjust Your View's Drawing Behavior When Scrolling
 	18>Do Not Customize Controls by Embedding Subviews
+
+3.Windows
+	1>Tasks That Involve Windows
+	2>Creating and Configuring a Window
+	3>Creating Windows in Interface Builder
+	4>Creating a Window Programmaticallly
+	5>Adding Content to Your Window
+	6>Changing the Window Level
+	7>Monitoring Window Changes
+	8>Displaying Content on an External Display
+	9>Handling Screen Connection and Disconnection Notifications
+	10>Configuring a Window for an External Display
+	11>Configuring the Screen Mode of an External Display
