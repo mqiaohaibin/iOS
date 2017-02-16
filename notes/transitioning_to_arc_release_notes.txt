@@ -1,0 +1,9 @@
+1.Transitioning to ARC Release Notes
+	1>Summary
+	2>ARC Overview
+	  #ARC Enforces New Rules
+	  #ARC Introduces New Lifetime Qualifiers
+	  #ARC Uses a New Statement to Manage Autorelease Pools
+	  #Patterns for Managing Outlets Become Consistent Across Platforms
+	  #Stack Variables Are Initialized with nil
+	  #Use Compiler Flags to Enable and Disable ARC

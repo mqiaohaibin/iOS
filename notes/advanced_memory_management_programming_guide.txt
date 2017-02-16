@@ -21,3 +21,8 @@
 	4>Don't Use dealloc to Manage Scarce Resources
 	5>Collections Own the Objects They Contain
 	6>Ownership Policy Is Implemented Using Retain Counts
+
+4.Using Autorelease Pool Blocks
+	1>About Autorelease Pool Blocks
+	2>Use Local Autorelease Pool Blocks to Reduce Peak Memory Footprint
+	3>Autorelease Pool Blocks and Threads
