@@ -21,3 +21,81 @@
 	  #You Can Join Multiple Teams
 	2>Adding Your Apple ID Account in Xcode
 	3>Recap
+
+4.Configuring Your Xcode Project for Distribution
+	1>Setting Properties When Creating Your Xcode Project
+	2>Before You Begin Configuring Your Project
+	3>Configuring Identity and Team Settings
+	  #About Bundle IDs
+	  #Setting the Bundle ID
+	  #Assigning the Xcode Project to a Team
+	  #Creating the Team Provisioning Profile
+	  #Setting the Version Number and Build String
+	4>Setting Deployment Info
+	  #Setting the Deployment Target
+	  #Setting the Target Device(iOS, watchOS)
+	5>Adding App Icons to an Asset Catalog
+	  #Preparing Your Artwork
+	  #Adding App Icons to an asset catalog
+	  #Creating a Launch Screen File
+	  #Adding Launch Images and Capturing Screenshots
+	  #Setting Individual App Icon and Launch Image Files
+	  #Migrating Your Images to an Asset Catalog
+	6>Adding Export Compliance Information to Your Project(Optional)
+	7>Verifying Your Build Settings
+	  #Setting Architectures for iOS Apps
+	  #Setting the Base SDK
+	  #Setting the Debug Information Format
+	8>Recap
+
+5.Adding Capabilities
+	
+6.Launching Your App on Devices
+	1>Launching Your App on a Device(iOS, tvOS, watchOS)
+	2>Removing a Device from the Scheme Menu (iOS, tvOS, watchOS)
+	3>Removing an App from a Device(iOS, tvOS, watchOS)
+	4>Verifying Your Steps
+	5>Troubleshooting
+	6>Team Provisioning Profiles in Depth
+	7>Recap
+
+7.Exporting Your App for Testing(iOS, tvOS, watchOS)
+	1>About Ad Hoc Provisioning Profiles
+	2>Registering Test Devices
+	3>Archiving Your App
+	4>Exporting Your App for Testing Outside the Store
+	5>Installing Your App on Test Devices Using Xcode
+	6>Installing Your App on Test Devices Using iTunes(iOS, watchOS)
+	7>Installing Your App on Test Devices Using Apple Configurator 2(iOS, watchOS, tvOS)
+	8>Distributing Your App Using Xcode Server
+	9>Copying App Sandbox Data
+	10>Soliciting Crash Reports from Testers
+	11>Ad Hoc Provisioning Profiles in Depth
+	12>Recap
+
+8.Uploading Your App to iTunes Connect
+	1>About Store Provisioning Profiles
+	2>Creating Your App Record in iTunes Connect
+	3>Updating the Version and Build Strings
+	4>Archiving Your App
+	  #Reviewing the Archive Scheme Settings
+	  #Creating an Archive
+	5>Running iTunes Connect Validation Tests
+	6>Uploading Your App
+
+9.Distributing Your App Using TestFlight(iOS, tvOS, watchOS)	
+
+11.Submitting Your App to the Store
+	1>Prepare Your App for Submission
+	  #Review Human Interface and Store Guidelines
+	  #Enter Additional Information in iTunes Connect
+	  #Verify Your Xcode Project
+	2>Upload Your Final Candidate
+	3>Submit Your App
+	4>Recap
+
+12.Managing Your App in iTunes Connect
+	1>About iTunes Connect User Roles and Privileges
+	2>Accessing iTunes Connect
+	3>Adding iTunes Connect Users and Viewing Roles
+	4>Creating an App Record
