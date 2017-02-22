@@ -1,0 +1,35 @@
+1.Introduction
+	1>About the URL Loading System
+	2>URL Loading
+	  #Fetching Content as Data
+	  #Downloading Content as a File
+	3>Helper Classes
+	  #URL Requests
+	  #Response Metadata
+	  #Redirection and Other Request Changes
+	  #Authentication and Credentials
+	  #Cache Management
+	  #Cookie Storage
+	  #Protocol Support
+	4>How to Use This Document
+
+2.Using NSURLSession
+	1>Understanding URL Session Concepts
+	  #Types of Sessions
+	  #Types of Tasks
+	  #Background Transfer Considerations
+	  #Life Cycle and Delegate Interaction
+	  #NSCopying Behavior
+	2>Sample Delegate Class Interface
+	3>Creating and Configuring a Session
+	4>Fetching Resources Using System-Provided Delegates
+	5>Fetching Data Using a Custom Delegate
+	6>Downloading Files
+	7>Uploading Body Content
+	  #Uploading Body Content Using an NSData Object
+	  #Uploading Body Content Using a Stream
+	  #Uploading a File Using a Download Task
+	8>Handling Authentication and Custom TLS Chain Validation
+	9>Handling iOS Background Activity
+
+8.Appendix A:Life Cycle of a URL Session
