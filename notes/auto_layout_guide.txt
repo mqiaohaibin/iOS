@@ -1,3 +1,4 @@
+Getting Started
 1.Understanding Auto Layout
 	1>External Changes
 	2>Internal Changes
@@ -31,3 +32,16 @@
 	  #Examining and Editing Constraints
 	5>Setting Content-Hugging and Compression-Resistance Priorities
 	6>iOS-Only Features
+	7>Rules of Thumb
+
+Auto Layout Cookbook
+1.Stack Views
+	1>Simple Stack View
+	  #Views and Constraints
+	  #Discussion
+	2>Nested Stack Views
+	  #Views and Constraints
+	  #Attributes
+	3>Dynamic Stack View
+
+	
